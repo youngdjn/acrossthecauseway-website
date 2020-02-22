@@ -1,5 +1,5 @@
 title = "Across the Causeway Transit Riders Collective"
-baseURL = "https://example.com"
+baseURL = "https://acrossthecauseway.com"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -42,11 +42,11 @@ enableRobotsTXT = true
     url = "/#fact-checking"
 [[menu.main]]
   identifier = "voice_concerns"
-  name = "Voice your concerns"
+  name = "Voice Your Concerns"
   pre = "test_pre"
   url = "/#voice-your-concerns"
 [[menu.main]]
   identifier = "letter"
-  name = "Riders' letter"
+  name = "Riders' Letter"
   pre = "test_pre"
   url = "/#letter"
