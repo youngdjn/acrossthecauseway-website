@@ -20,7 +20,7 @@ menu: main
 
 # Endorsed statements
 
-### Statement endorsed by the UC Davis Graduate Student Association (GSA)
+### Statement endorsed by the UC Davis Graduate Student Association (GSA) <a id="gsa"> </a>
 
 We are a collection of graduate students who object the proposed cancellation of the UC Davis Intercampus Shuttle. Given that more than 166 graduate students have signed our open letter that explains our concerns[1], this issue is felt widely and therefore we request your support.
 
@@ -63,7 +63,7 @@ We hope that UCD leadership will address the aforementioned action items before 
 
 [2] See https://www.acrossthecauseway.com/#fact-check. Discrepancies in both cost and ridership data have been corroborated by UCD planner Matt Dulcich.
 
-### Statement endorsed by UPTE 6119 (union of professional and technical employees), UAW 5810 (union of postdocs and academic researchers), and UC-AFT 2023 (union of non-Senate faculty and librarians)
+### Statement endorsed by UPTE 6119 (union of professional and technical employees), UAW 5810 (union of postdocs and academic researchers), and UC-AFT 2023 (union of non-Senate faculty and librarians) <a id="upte"> </a>
 
 As you may or may not know, the university is planning to discontinue shuttle service between UCDMC and UCD effective April 3rd and replace it with a new transit line April 6th in partnership with YoloBus and SacRT.  Many of the current shuttle users have numerous serious concerns about the ability of the new proposed service to 1) serve current ridership and 2) allow current ridership to serve the great UC Davis community.
 

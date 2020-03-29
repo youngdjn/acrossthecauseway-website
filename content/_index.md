@@ -70,9 +70,9 @@ Media coverage
 
 # Endorsements
 
-Intercampus commuters’ demands of the UCD administration have been endorsed by multiple groups:
+Intercampus commuters’ demands of the UCD administration have been [endorsed by multiple groups](/endorsements/):
 
-- UC Davis Graduate Student Association — view endorsed statement
+- UC Davis Graduate Student Association — [view endorsed statement] (/endorsements/#gsa)
 - UPTE 6119 (union of professional and technical employees) — view endorsed statement
 - UAW 5810 (union of postdocs and academic researchers) — view endorsed statement
 - UC-AFT 2023 (union of non-Senate faculty and librarians) — view endorsed statement
