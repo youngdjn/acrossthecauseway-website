@@ -46,7 +46,7 @@ Media coverage
 
 # Official Information From Involved Agencies
 
-- SacRT Board Meeting Video “Public Speaks Out About Changes” — Nov 18, 2019
+- SacRT Board Meeting Video “[Public Speaks Out About Changes](https://youtu.be/ejjLAZ-EAVQ?t=2877)” — Nov 18, 2019
 - YCTD “November Board Meeting Packet” — Published Between Nov 14-Nov 16, 2019
 - UC Davis “Causeway Connection Schedule is Adjusted in Response to Feedback” — Published Nov 15
 - SacRT “Approving the Causeway Connection Intercity Bus Service Staff Report” — Published Nov 13, 2019
