@@ -13,14 +13,14 @@ menu: main
 Much about the intercampus transit plans have changed since October 2019. This page serves to preserve information compiled by riders about the initial plans.
 Original summary of the issue (initially published October 31, 2019)
 
-    UC Davis has operated an intercampus shuttle between its Davis and Sacramento campuses for over 30 years. Many riders have shaped their lives around the service in its current form, e.g., buying homes, setting up childcare and school enrollment, and organizing two working parent schedules.
-    The current intercampus shuttle service is well-used and well-liked. Positive aspects include: efficient and direct campus-to-campus route, high capacity for riders (60+) and bicycles (12), comfortable seats that allow for productivity and rest, seatbelts, and low cost.
-    UC Davis is planning to eliminate the intercampus shuttle (effective April 2020) and is directing intercampus commuters to a new Yolobus/SacRT public transit line. The new line will not be managed or controlled by UC Davis.
-    While a major improvement for the broader community, the new public transit route is not a suitable substitute for the intercampus shuttle. Because it has not investigated user needs and priorities, the UCD administration incorrectly assumes that intercampus shuttle riders will simply switch to the new public transit route.
-    In reality, most intercampus shuttle riders may return to commuting in personal vehicles because the new public transit buses (a) will be substantially slower due to additional stops, (b) they may require standing, and (c) they lack comfortable seats and seatbelts.
-    UC Davis’ planning surrounding the shuttle reflects a troubling detachment from its stakeholders and a rejection of the UCD Principles of Community commitments to environmental sustainability and community service.
-    Aggie Square and other efforts associated with the UCD Health growth initiative should expand public transportation and reduce pollution. They should not result in the closure of a popular commuting route and more cars on the road.
-    Intercampus commuters firmly request that UC Davis retain the existing shuttle service alongside the public transit route and formally include intercampus commuters in decision making about the shuttle.
+- **UC Davis has operated an intercampus shuttle between its Davis and Sacramento campuses for over 30 years.** Many riders have shaped their lives around the service in its current form, e.g., buying homes, setting up childcare and school enrollment, and organizing two working parent schedules.
+- **The current intercampus shuttle service is well-used and well-liked.** Positive aspects include: efficient and direct campus-to-campus route, high capacity for riders (60+) and bicycles (12), comfortable seats that allow for productivity and rest, seatbelts, and low cost.
+- UC Davis is planning to eliminate the intercampus shuttle (effective April 2020) and is directing intercampus commuters to a new Yolobus/SacRT public transit line. **The new line will not be managed or controlled by UC Davis.**
+- While a major improvement for the broader community, **the new public transit route is not a suitable substitute for the intercampus shuttle.** Because it has not investigated user needs and priorities, the UCD administration incorrectly assumes that intercampus shuttle riders will simply switch to the new public transit route.
+- In reality, **most intercampus shuttle riders may return to commuting in personal vehicles** because the new public transit buses (a) will be substantially slower due to additional stops, (b) they may require standing, and (c) they lack comfortable seats and seatbelts.
+- UC Davis’ planning surrounding the shuttle reflects **a troubling detachment from its stakeholders** and **a rejection of the UCD Principles of Community** commitments to environmental sustainability and community service.
+- Aggie Square and other efforts associated with the UCD Health growth initiative should expand public transportation and reduce pollution. They should not result in the closure of a popular commuting route and more cars on the road.
+- Intercampus commuters **firmly request that UC Davis retain the existing shuttle service** alongside the public transit route and **formally include intercampus commuters in decision making** about the shuttle.
 
 Initial fact-checking of UCD’s claims (initially published November 8, 2019)
 
