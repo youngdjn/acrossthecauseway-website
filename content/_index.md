@@ -47,26 +47,26 @@ Media coverage
 # Official Information From Involved Agencies
 
 - SacRT Board Meeting Video “[Public Speaks Out About Changes](https://youtu.be/ejjLAZ-EAVQ?t=2877)” — Nov 18, 2019
-- YCTD “November Board Meeting Packet” — Published Between Nov 14-Nov 16, 2019
-- UC Davis “Causeway Connection Schedule is Adjusted in Response to Feedback” — Published Nov 15
-- SacRT “Approving the Causeway Connection Intercity Bus Service Staff Report” — Published Nov 13, 2019
-- UC Davis “Causeway Connection Website” — Published Oct 29, 2019
-- SacRT “Route Change Request for Comments” — Published Oct 14, 2019
+- YCTD “[November Board Meeting Packet](https://yolobus.com/media/agenda/2019-11NovemberPacket.pdf)” — Published Between Nov 14-Nov 16, 2019
+- UC Davis “[Causeway Connection Schedule is Adjusted in Response to Feedback](https://www.ucdavis.edu/news/causeway-connection-schedule-adjusted-response-feedback/)” — Published Nov 15
+- SacRT “[Approving the Causeway Connection Intercity Bus Service Staff Report](http://iportal.sacrt.com/WebApps/SRTDBM/MeetingDocs/SacRT%20Board%20of%20Directors%20-%20November%2018,%202019%20-%20Agenda%20Item%2014.pdf)” — Published Nov 13, 2019
+- UC Davis “[Causeway Connection Website](https://foa.ucdavis.edu/initiatives/causeway-connection)” — Published Oct 29, 2019
+- SacRT “[Route Change Request for Comments](https://www.sacrt.com/apps/sacrt-seeking-comments-on-potential-service-changes/)” — Published Oct 14, 2019
 - SacToZero Bus Information
-- UC Davis “Electric Bus Service Will Connect UC Davis With Sacramento” — Published June 19, 2018
-- Electrify America, LLC “Electrify America and the City of Sacramento Announce New Zero-Emissions Car Sharing Programs, Zero-Emissions Shuttle Bus Routes and Electric Vehicle Charging Infrastructure” — Published June 13, 2018
-- Sacramento City Council “Mayor Darrell Steinberg Declares There Shall Be an EV Shuttle Between UC Davis and Sacramento” — December 12, 2017
+- UC Davis “[Electric Bus Service Will Connect UC Davis With Sacramento](https://www.ucdavis.edu/news/electric-bus-service-will-connect-uc-davis-sacramento/)” — Published June 19, 2018
+- Electrify America, LLC “[Electrify America and the City of Sacramento Announce New Zero-Emissions Car Sharing Programs, Zero-Emissions Shuttle Bus Routes and Electric Vehicle Charging Infrastructure](https://media.electrifyamerica.com/en-us/releases/12)” — Published June 13, 2018
+- Sacramento City Council “[Mayor Darrell Steinberg Declares There Shall Be an EV Shuttle Between UC Davis and Sacramento](https://youtu.be/-mQudgwiyUA)” — December 12, 2017
 
 # Social Media #ucdshuttle
 
-- Reddit “Last day to comment on express public bus between Mondavi Center / Downtown Sac / UCDMC” — Nov 13, 2019
-- Reddit “The Davis-Sacramento UCD Intercampus Shuttle is slated to be eliminated without input from 500+ riders, help us by signing our letter!” — Nov 1, 2019
-- Reddit “Support the riders of the intercampus shuttle so that we can be heard! Sign the letter to UCD.” — Nov 1, 2019
-- Reddit “Sac RT Proposes Routes to SMF and UCD” — Oct 18, 2019
+- Reddit “[Last day to comment on express public bus between Mondavi Center / Downtown Sac / UCDMC](https://www.reddit.com/r/UCDavis/comments/dvipr6/last_day_to_comment_on_express_public_bus_between/)” — Nov 13, 2019
+- Reddit “[The Davis-Sacramento UCD Intercampus Shuttle is slated to be eliminated without input from 500+ riders, help us by signing our letter!](https://www.reddit.com/r/Sacramento/comments/dq4dk0/the_davissacramento_ucd_intercampus_shuttle_is/)” — Nov 1, 2019
+- Reddit “[Support the riders of the intercampus shuttle so that we can be heard! Sign the letter to UCD.](https://www.reddit.com/r/UCDavis/comments/dq4coi/support_the_riders_of_the_intercampus_shuttle_so/)” — Nov 1, 2019
+- Reddit “9Sac RT Proposes Routes to SMF and UCD0[https://www.reddit.com/r/Sacramento/comments/dj9ucd/sac_rt_proposes_routes_to_smf_and_ucd/]” — Oct 18, 2019
 
 # Personal stories
 
-Read personal stories about the importance of the shuttle in riders’ lives.
+[Read personal stories](/riders-stories/) about the importance of the shuttle in riders’ lives.
 
 # Endorsements
 
