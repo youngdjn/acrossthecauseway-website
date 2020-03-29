@@ -1,4 +1,4 @@
-title = "Across the Causeway Transit Riders Collective"
+title = "Home"
 baseURL = "https://acrossthecauseway.com"
 languageCode = "en-us"
 theme = "ananke"
@@ -36,7 +36,7 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = "fact_checking"
+    identifier = "fact_check"
     name = "Fact-checking UCD"
     pre = "test_pre"
     url = "/#fact-checking"

@@ -79,7 +79,7 @@ Intercampus commuters’ demands of the UCD administration have been [endorsed b
 - UAW 5810 (union of postdocs and academic researchers) — [view endorsed statement](/endorsements/#upte)
 - UC-AFT 2023 (union of non-Senate faculty and librarians) — [view endorsed statement](/endorsements/#upte)
 
-# Fact-checking UCD’s claims <a id="fact-checking"> </a>
+# Fact-checking UCD’s claims <a id="fact-check"> </a>
 
 *Fact checks last updated Dec 12th, 2019. As the plans have changed over time, so has the fact-checking. Fact-checks from earlier periods can be accessed in the [archive](/archive/).*
 

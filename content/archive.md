@@ -127,14 +127,25 @@ Fact: The Electrify America grant funding the bus purchases was awarded in June 
 ## References
 
 1 – https://theaggie.org/2019/10/31/long-running-intercampus-shuttle-to-be-replaced-with-public-electric-bus-service-leaving-many-riders-frustrated/
+
 2 – https://foa.ucdavis.edu/initiatives/causeway-connection/schedule
+
 3 – https://theaggie.org/2019/10/31/the-editorial-board-meets-with-chancellor-gary-may/
+
 4 – https://foa.ucdavis.edu/initiatives/causeway-connection
+
 5 – https://health.ucdavis.edu/parking/intercampus/
+
 6 – https://unitrans.ucdavis.edu/about/faq/
+
 7 – https://taps.ucdavis.edu/parking/permits/rates
+
 8 – https://www.ucdavis.edu/news/uc-davis-shuttle-bus-accident/
+
 9 – https://www.sfgate.com/bayarea/article/SACRAMENTO-UC-Davis-bus-crash-hurts-20-halts-2465968.php
+
 10 – https://www.ucdavis.edu/news/open-houses-intercampus-transit-options
+
 11 – current route vs. future route (via Google Maps)
+
 12 – https://www.sacrt.com/apps/wp-content/uploads/TitleVI-Med-Center-Draft-2019-10-14.pdf
