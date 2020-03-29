@@ -11,7 +11,8 @@ menu: main
 
 
 Much about the intercampus transit plans have changed since October 2019. This page serves to preserve information compiled by riders about the initial plans.
-Original summary of the issue (initially published October 31, 2019)
+
+# Original summary of the issue (initially published October 31, 2019)
 
 - **UC Davis has operated an intercampus shuttle between its Davis and Sacramento campuses for over 30 years.** Many riders have shaped their lives around the service in its current form, e.g., buying homes, setting up childcare and school enrollment, and organizing two working parent schedules.
 - **The current intercampus shuttle service is well-used and well-liked.** Positive aspects include: efficient and direct campus-to-campus route, high capacity for riders (60+) and bicycles (12), comfortable seats that allow for productivity and rest, seatbelts, and low cost.
@@ -22,11 +23,12 @@ Original summary of the issue (initially published October 31, 2019)
 - Aggie Square and other efforts associated with the UCD Health growth initiative should expand public transportation and reduce pollution. They should not result in the closure of a popular commuting route and more cars on the road.
 - Intercampus commuters **firmly request that UC Davis retain the existing shuttle service** alongside the public transit route and **formally include intercampus commuters in decision making** about the shuttle.
 
-Initial fact-checking of UCD’s claims (initially published November 8, 2019)
+# Initial fact-checking of UCD’s claims (initially published November 8, 2019)
 
 Claim: The new buses are expanding the existing shuttle, and they provide a comparable level of service.
 Fact: The shuttle is being discontinued, the new bus route is significantly longer, the buses carry fewer passengers, and most riders will have to pay more. Details are provided below.
-Reasons for the change
+
+## Reasons for the change
 
 Claim: The impetus for the new buses is to improve the shuttle riders’ experience.
 Fact: We believe the experience will be much worse (see the open letter on this website with > 500 signatures) and thus, we requested that they improve the proposed bus route by creating a survey to quantitatively understand our needs. Mr. Dulcich has purposefully delayed our request for a poll until after the deadline for the final schedule on November 18th. The planners are actively denying input from the shuttle riders in order to continue with their misguided plans unobstructed.
@@ -45,7 +47,8 @@ Fact: At all four of the Nov 6 and 7 town hall meetings, no budget hardline was 
 
 Claim: The new bus line will save us money and make the university “recession proof.”
 Fact: According to Mr. Dulcich during the Nov 7 town hall meeting, UCD plans to contribute the same monetary amount toward the operation of the new public bus line, thus not resulting in any saving. If anything the new service is more costly; in order to provide the same level of service (passenger capacity, frequency of express routes, etc.) as the current intercampus shuttle, supplementary funding from additional grants, which have not yet been obtained, would be necessary.
-Features of the new buses
+
+## Features of the new buses
 
 Claim: New buses will be more frequent.
 Fact: According to the latest draft schedule [2], buses will run at the same 60-minute intervals for most of the day and for only 6 out of the 16 hours of operation, buses will run at 30-minute intervals. These more frequent buses are during peak-commute hours, during which it is common to have 45-55 people on board. Under the future scenarios, excess people will need to wait for an additional 30 minutes to take a (non-express) bus, as the new buses seat only 33 people.
@@ -73,14 +76,16 @@ Fact: The UC Davis campus is the largest in the UC system and many riders rely o
 
 Claim: There are enough buses during the peak-commute hours to accommodate the demand for bike rack space.
 Fact: Recent internal surveys show that 75% of the buses had more than 3 bikes on board; at peak commutes, they often have 8 bikes, and they used to have more than 8 before the current cap of 8 was instituted. Riders will not reliably be able to bring their bikes between campuses. We will need to pay for a second bike and leave one on each campus, which can cost an additional $20/month for secure parking on each side, according to the plan explained by Mr. Dulcich at an October Causeway Connection town hall meeting.
-UC Davis’ commitment to its stakeholders
+
+## UC Davis’ commitment to its stakeholders
 
 Claim: The new transit line is here to serve UC Davis affiliates.
 Fact: The new line will be 100% owned by Yolobus and SacRT [12] and understandably, it is in their best interest to serve the greater community and not UC Davis affiliates. In spite of the planners’ insistence, the current plan outlined is not acceptable to UC Davis intercampus commuters. Mr. Dulcich said they will be able to monitor how much UCD affiliates are utilizing the new transit line by analyzing ticket sales. Given that they are still unable to retrieve ticket revenue data from the two campuses, it is highly suspect that monitoring will be done. Furthermore, SacRT, which will sell the Causeway Connection tickets, will have no means to distinguish UCD-affiliate ticket sales from general public ticket sales. At the November 6 Causeway Connection open house, Mr. Dulcich indicated that additional grants, which have not yet been obtained or even applied for, would be necessary to fund an expansion of the service beyond the current proposal.
 
 Claim: The UCD leadership is involving their stakeholders.
 Fact: The Electrify America grant funding the bus purchases was awarded in June 2018, indicating that these decisions have been in the works for at least 2 years. None of the committee planning meetings thus far have had a shuttle representative present, nor were any informational sessions scheduled until shuttle riders repeatedly demanded them. At multiple times in the past when shuttle riders suspected new decisions had been made, riders had to send repeated requests for information and updates before any meaningful response was received.
-References
+
+## References
 
 1 – https://theaggie.org/2019/10/31/long-running-intercampus-shuttle-to-be-replaced-with-public-electric-bus-service-leaving-many-riders-frustrated/
 2 – https://foa.ucdavis.edu/initiatives/causeway-connection/schedule
