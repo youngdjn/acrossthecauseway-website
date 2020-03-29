@@ -39,7 +39,7 @@ enableRobotsTXT = true
     identifier = "fact_check"
     name = "Fact-checking UCD"
     pre = "test_pre"
-    url = "/#fact-checking"
+    url = "/#fact-check"
 [[menu.main]]
   identifier = "voice_concerns"
   name = "Voice Your Concerns"

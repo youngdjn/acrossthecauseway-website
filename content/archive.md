@@ -40,9 +40,9 @@ Claim: The bus services are changing because ridership in recent years has been 
 
 Fact: The data used to justify the shuttle cancellation is flawed:
 
-    The planners have reported on ridership data gathered by headcounts provided by the charter bus service. However, more careful analysis indicates that the dataset is incomplete. By contrast, long-time riders have reported that ridership has steadily increased.
-    The planners are estimating current and future revenue from flawed back-of-the-envelope calculations rather than using real ticket sales. Their calculations of current ticket sales estimate $3.50 in sales per bus (1-2 riders), which is likely off by an order of magnitude.
-    The planners have yet to collate, analyze, and/or provide data collected on ticket sales through TAPS and the cashier’s office.
+- The planners have reported on ridership data gathered by headcounts provided by the charter bus service. However, more careful analysis indicates that the dataset is incomplete. By contrast, long-time riders have reported that ridership has steadily increased.
+- The planners are estimating current and future revenue from flawed back-of-the-envelope calculations rather than using real ticket sales. Their calculations of current ticket sales estimate $3.50 in sales per bus (1-2 riders), which is likely off by an order of magnitude.
+- The planners have yet to collate, analyze, and/or provide data collected on ticket sales through TAPS and the cashier’s office.
 
 In the town hall meetings, Mr. Dulcich acknowledged the new transit line is justified by inaccurate ridership and revenue values.
 
