@@ -10,13 +10,13 @@ menu: main
 
 # Endorsing groups
 
-- UC Davis Graduate Student Association Executive Committee — view endorsed statement
+- UC Davis Graduate Student Association Executive Committee — [view endorsed statement](#gsa)
 
-- UPTE 6119 (union of professional and technical employees) — view endorsed statement
+- UPTE 6119 (union of professional and technical employees) — [view endorsed statement](#upte)
 
-- UAW 5810 (union of postdocs and academic researchers) — view endorsed statement
+- UAW 5810 (union of postdocs and academic researchers) — [view endorsed statement](#upte)
 
-- UC-AFT 2023 (union of non-Senate faculty and librarians) — view endorsed statement
+- UC-AFT 2023 (union of non-Senate faculty and librarians) — [view endorsed statement](#upte)
 
 # Endorsed statements
 
@@ -82,7 +82,7 @@ We have repeatedly asked for:
 1. similarly priced tickets,
 1. similar bike capacity,
 1. similar comfort (i.e. no standing),
-1. and seatbelts (see here and here for news about the 2006 intercampus shuttle crash on Hwy 50).
+1. and seatbelts (see [here](https://www.sfgate.com/bayarea/article/SACRAMENTO-UC-Davis-bus-crash-hurts-20-halts-2465968.php) and [here](https://www.ucdavis.edu/news/uc-davis-shuttle-bus-accident/) for news about the 2006 intercampus shuttle crash on Hwy 50).
 
 Clearly, the message about what we desire in a service is not getting across and it is in the Partners’ best interest to avoid collecting survey data to quantitatively understand our needs. In yesterday’s town hall meeting, it was disclosed that the possibility of polling existing riders was intentionally delayed until after the November 18th deadline for a final route and schedule.
 

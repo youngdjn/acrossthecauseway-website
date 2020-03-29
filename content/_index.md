@@ -1,14 +1,16 @@
 ---
-title: "Planned elimination of the UCD intercampus shuttle"
+title: "Archive: Changes to UCD intercampus transportation"
 featured_image: ''
 description: ""
 omit_header_text: true
 type: page
 ---
 
+<span style="background-color: #42c2f5">Note: The UCD administration and the involved transit agencies have made substantial improvements to the originally planned replacement for the UCD intercampus shuttle. Many of the riders believe their concerns have been (or are planned to be) addressed sufficiently. Many of these changes are due to advocacy by commuters and the institutions' responses to them. This website serves to preserve a snapshot of the situation as it stood in December 2019.</span>
+
 # The issue
 
-*Updated December 12th, 2019. The issue has evolved over time. For earlier descriptions of the issue, see [the archive](/archive).*
+*Updated December 12th, 2019. For earlier descriptions of the issue, see [the archive](/archive).*
 
 - **UC Davis has operated an intercampus shuttle between its Davis and Sacramento campuses for over 30 years.** Many riders have shaped their lives around the service in its current form, e.g., buying homes, setting up childcare and school enrollment, and organizing two working parent schedules.
 
@@ -72,10 +74,10 @@ Media coverage
 
 Intercampus commuters’ demands of the UCD administration have been [endorsed by multiple groups](/endorsements/):
 
-- UC Davis Graduate Student Association — [view endorsed statement] (/endorsements/#gsa)
-- UPTE 6119 (union of professional and technical employees) — view endorsed statement
-- UAW 5810 (union of postdocs and academic researchers) — view endorsed statement
-- UC-AFT 2023 (union of non-Senate faculty and librarians) — view endorsed statement
+- UC Davis Graduate Student Association — [view endorsed statement](/endorsements/#gsa)
+- UPTE 6119 (union of professional and technical employees) — [view endorsed statement](/endorsements/#upte)
+- UAW 5810 (union of postdocs and academic researchers) — [view endorsed statement](/endorsements/#upte)
+- UC-AFT 2023 (union of non-Senate faculty and librarians) — [view endorsed statement](/endorsements/#upte)
 
 # Fact-checking UCD’s claims <a id="fact-checking"> </a>
 
@@ -152,11 +154,11 @@ The UCD administration has implied that they view the open letter (signed by > 5
 
 **UC Davis is collecting comments:**
 
-- Via an online form
+- Via an [online form](https://ucdavis.co1.qualtrics.com/jfe/form/SV_3wkOxD3lxyMgazP)
 
 **SacRT is accepting public comments:**
 
-- On their website
+- [On their website](https://www.sacrt.com/apps/sacrt-seeking-comments-on-potential-service-changes/)
 
 - By phone: (916) 557-4545
 
@@ -164,7 +166,7 @@ The UCD administration has implied that they view the open letter (signed by > 5
 
 **Yolobus is collecting rider feedback:**
 
-- On the YolobusGo website
+- On the [YolobusGo website](http://www.yolobusgo.com/)
 
 - By email: ksouza@yctd.org
 
@@ -174,27 +176,27 @@ The UCD administration has implied that they view the open letter (signed by > 5
 
 **You can email those making the decisions directly:**
 
-- Matt Dulcich (UCD Director of City, Regional, and Environmental Planning)
+- [Matt Dulcich](medulcich@ucdavis.edu) (UCD Director of City, Regional, and Environmental Planning)
 
-- Ramon Zavala (UCD Transportation Demand Manager)
+- [Ramon Zavala](rgzavala@ucdavis.edu) (UCD Transportation Demand Manager)
 
-- Sarah Janus (UCD Health Sustainability Officer)
+- [Sarah Janus](stjanus@ucdavis.edu) (UCD Health Sustainability Officer)
 
-- Kelly Ratliff (UCD Vice Chancellor Finance, Operations, and Adminstration)
+- [Kelly Ratliff](kmratliff@ucdavis.edu) (UCD Vice Chancellor Finance, Operations, and Adminstration)
 
-- Gary May (UCD Chancellor)
+- [Gary May](chancellor@ucdavis.edu) (UCD Chancellor)
 
-- David Lubarsky (UCD Health CEO and Vice Chancellor)
+- [David Lubarsky](dalubarsky@ucdavis.edu) (UCD Health CEO and Vice Chancellor)
 
-- Darrell Steinberg (Sacramento Mayor)
+- [Darrell Steinberg](MayorSteinberg@cityofsacramento.org) (Sacramento Mayor)
 
-- Jay Schenirer (Sarcamento District 5 Councilperson)
+- [Jay Schenirer](jschenirer@cityofsacramento.org) (Sarcamento District 5 Councilperson)
 
-- Eric Guerra (Sacramento District 6 Councilperson)
+- [Eric Guerra](eguerra@cityofsacramento.org) (Sacramento District 6 Councilperson)
 
-- Terry Bassett (Executive Director Yolo Count Transportation Department)
+- [Terry Bassett](tbassett@yctd.org) (Executive Director Yolo Count Transportation Department)
 
-- Henry Li (General Manager SacRT)
+- [Henry Li](customeradvocacy@sacrt.com) (General Manager SacRT)
 
 
 # Shuttle riders’ statement <a id="letter"> </a>
