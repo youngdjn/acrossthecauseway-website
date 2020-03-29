@@ -6,7 +6,7 @@ omit_header_text: true
 type: page
 ---
 
-<span style="color: #22628a">**Note:** The UCD administration and the involved transit agencies have made substantial improvements to the originally planned replacement for the UCD intercampus shuttle. Many of the riders believe their concerns have been (or are planned to be) addressed sufficiently. Many of these changes are due to advocacy by commuters and the institutions' responses to them. This website serves to preserve a snapshot of the situation as it stood in December 2019.</span>
+<span style="color: #22628a">**Note:** The UCD administration and the involved transit agencies have made substantial improvements to their originally planned replacement for the UCD intercampus shuttle. Many of the riders believe their concerns have been (or are planned to be) addressed sufficiently. Many of these changes are due to advocacy by commuters and the institutions' responses to them. This website serves to preserve a snapshot of the situation as it stood in December 2019.</span>
 
 # The issue
 
